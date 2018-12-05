@@ -5,8 +5,7 @@ This project is just read NFC tag by using ios coreNFC, it's a helper project fo
 
 ## ScreenShot
 ### Reader 
-<img src="https://github.com/underwindfall/NFCReaderiOS/blob/master/art/image1.png" width="200px" />
-<img src="https://github.com/underwindfall/NFCReaderiOS/blob/master/art/image2.png" width="200px" />
+<img src="https://github.com/underwindfall/NFCReaderiOS/blob/master/art/image1.png" width="200px" /><img src="https://github.com/underwindfall/NFCReaderiOS/blob/master/art/image2.png" width="200px" />
 
 
 ## Ref
